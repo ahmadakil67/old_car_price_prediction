@@ -9,7 +9,8 @@ The dataset used in this project was collected from Kaggle. It includes several 
 
 - [Kaggle - Old Car Price Dataset](https://www.kaggle.com/datasets/mayankpatel14/second-hand-used-cars-data-set-linear-regression)
 
-
+## Model Architecture 
+![download](https://github.com/ahmadakil67/old_car_price_prediction/assets/90788507/1243b117-fda1-4e5f-bcf9-365ff26d85fa)
 
 
 
